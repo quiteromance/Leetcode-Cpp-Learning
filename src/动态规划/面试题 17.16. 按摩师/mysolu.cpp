@@ -16,7 +16,7 @@ public:
         process(nums, -2, max, count);
         return max;
     }
-    void process(const vector<int>& nums, int index, int & max, int &count){
+    void process(const vector<int>& nums, int index, int & max, int count){
         if(index >= int(nums.size())) {
             max = max > count ? max : count;
             return;
