@@ -2,7 +2,7 @@
 本项目用于记录联系的leetcode cpp代码
 ## 目录
 - [排序](https://github.com/quiteromance/Leetcode-Cpp-Learning/tree/main/src/%E6%8E%92%E5%BA%8F)
-- [链表](#链表)
+- [链表](https://github.com/quiteromance/Leetcode-Cpp-Learning/tree/main/src/%E9%93%BE%E8%A1%A8%E6%93%8D%E4%BD%9C)
 - [二叉树](#二叉树)
 - [双指针](#双指针)
 - [贪心](#贪心)
