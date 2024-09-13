@@ -13,6 +13,7 @@ public:
             res.push_back(str);
             return;
         };
+
         for(int i = 0; i < reflect(digits[index]).length(); i++){
             string curStr = str;
             char cur = reflect(digits[index])[i];
